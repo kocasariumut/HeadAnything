@@ -6,7 +6,7 @@
 
 ### Coming soon!
 
-[![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.31143-b31b1b)](https://arxiv.org/abs/2611.31143)
 [![Project Page](https://img.shields.io/badge/Project_Page-green)](https://kocasariumut.github.io/HeadAnything/)
 [![Video](https://img.shields.io/badge/▶_Video-red)](https://youtu.be/EQm6y_Z0Frk)
 [![Code](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/kocasariumut/HeadAnything)
